@@ -1,5 +1,5 @@
-# FastLetter
+# FastReply
 ### <sub>IS DEVELOPING!</sub>
-### FastLetter is quick messenger that allows you to correspond quickly.
+### FastReply is quick forum on any topic.
 ### __@ All rights reserved by GreenZelen team.__
 
